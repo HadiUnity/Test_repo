@@ -1,0 +1,60 @@
+Docker - Developer Experience
+Docker - Deploying Container
+Trading - Introduction to Oil Trading
+Trading - Oil Marker Fundamental 1
+Trading - Oil Marker Fundamental 2
+Trading - Technical Analysis
+Trading - Trading Strategies
+Trading - Trading Strategies Part 2
+Trading - Pricing Mechanism 1
+Trading - Pricing Mechanism 2
+Trading - Mechanism of Trading & Contract
+Trading - Forwards & Crude Oil Benchmark
+Trading - Risk, Management, Exposure and Hedging 1
+Trading - Risk, Management, Exposure and Hedging 2
+Trading - Future Trading and Hedging 1
+Trading - Future Trading and Hedging 2
+Trading - Future Trading and Hedging 3
+Trading - Swap and Options 1
+Trading - Swap and Options 2
+Trading - Swap and Options 3
+Trading - Value Drivers and Market Charecteristics 1
+Trading - Value Drivers and Market Charecteristics 2
+Trading - Value Drivers and Market Charecteristics 3
+Trading - Term
+Trading - DPH1 Part 1
+Trading - DPH1 Part 2
+Trading - DPH1 Part 3
+Trading - DPH1 Part 4
+Trading - DPH1 Part 5
+Trading - DPH1 Part 6
+Codeacademy - Probability for Data Science
+Codeacademy - Sampling for Data Science
+Codeacademy - Inferential Statistic Basics
+Codeacademy - Hypothesis Testing
+Codeacademy - Simple Linear Regression
+Codeacademy - Line Chart in Python
+Codeacademy - Charts Beyond the Line Chart in Python
+Codeacademy - Visualizing Categorical Data
+Codeacademy - Visualization for EDA
+Codeacademy - Data Visualization Review
+Codeacademy - Portfolio Project: Data Visualization
+Codeacademy - Introduction: Data Wrangling & Tidying
+Codeacademy - Introduction to Regular Expressions
+Codeacademy - How to Clean Data with Python
+Codeacademy - Handling Missing Data
+Codeacademy - Introduction: Communicating Data Science Findings
+Codeacademy - Communicating Data Science Findings
+Codeacademy - Review: Communicating Data Science Findings
+Codeacademy - Data Science Foundations Portfolio Project
+Codeacademy - Next Step: The Machine Learning Specialty
+Codeacademy - Welcome to the Machine Learning Specialty
+Codeacademy - Introduction to Machine Learning
+Codeacademy - Tuples for Data Science
+Codeacademy - Python Classes
+Codeacademy - Python Modules
+Codeacademy - Introduction: Linear Algebra
+Codeacademy - Linear Algebra
+Codeacademy - Introduction: Differential Calculus
+Codeacademy - Differential Calculus
+Codeacademy - Final Problem Set
