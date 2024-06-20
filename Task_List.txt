@@ -58,3 +58,34 @@ Codeacademy - Linear Algebra
 Codeacademy - Introduction: Differential Calculus
 Codeacademy - Differential Calculus
 Codeacademy - Final Problem Set
+Codeacademy - Introduction: Statistics Fundamentals Part II
+Codeacademy - Hypothesis Testing: Testing an Association
+Codeacademy - Experimental Design
+Codeacademy - Hypothesis Testing Projects
+Codeacademy - Welcome to Machine Learning Fundamentals
+Codeacademy - Introduction to Machine Learning
+Codeacademy - EDA for Machine Learning Modules
+Codeacademy - Introduction to Feature Engineering
+Codeacademy - Data Transformation for Feature Analysis
+Codeacademy - Introduction to Data Transformation
+Codeacademy - Introduction to Supervised Learning
+Codeacademy - Simple Linear Regression
+Codeacademy - Multiple Linear Regression
+Codeacademy - Logistic Regression 
+Codeacademy - Logistic Regression II
+Codeacademy - K Nearest Neighbors
+Codeacademy - Decision Trees
+Codeacademy - Evaluation Metrics
+Codeacademy - Introduction to Feature Selection Methods
+Codeacademy - Filter Methods
+Codeacademy - Wrapper Methods
+Codeacademy - Regularization
+Codeacademy - Feature Importance
+Codeacademy - Hyperparameter Tuning
+Codeacademy - Introduction to Unsupervised Learning
+Codeacademy - K-Means Clustering
+Codeacademy - Principal Component Analysis
+Codeacademy - Introduction to Ensemble Methods in Machine Learning
+Codeacademy - Random forest
+Codeacademy - Boosting Machine Learning Models
+Codeacademy - Stacking Machine Learning Models
